@@ -1,7 +1,8 @@
-### Hi there 👋
+### 👋Hello World 🌏!! My name is Ayrton, Be Welcome Here ✌️
 
 <!--
 **AyrtonPereira1996/AyrtonPereira1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 Who am I?
+
+-> My name is Ayrton Pereira I was born in 1996 in Mozambique in Quelimane City. Nowadays, I’m living at Quelimane (located in the centre of Mozambique) and working here as an IT technician at an IT consulting company and as web development freelancer. Since I started to study how programming I never stop because I understood that with this knowledge we can help people and this 🌏🌍🌏 in different ways.
+
+🤔 What I do?
+
+-> I'am working as a web freelancer developing websites and web applications;
+
+-> I'am working as IT technician at an IT consulting company called System Soluction since 2020;
+
