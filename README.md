@@ -26,9 +26,10 @@ I’m working as a web freelancer developing websites and web applications;
 
 I’m working as an IT technician at an IT consulting company called System Solution since 2020;
 
-I’m trying each day to get better at doing what I do and what I ♥️ do.
+I’m trying each day to get better at doing what I do and what I ♥️ to do.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
 
