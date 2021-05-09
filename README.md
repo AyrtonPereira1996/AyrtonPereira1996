@@ -1,4 +1,4 @@
-### 👋Hello World 🌏!! My name is Ayrton, Be Welcome Here ✌️
+### Hello World 🌏, my name is Ayrton!
 
 <!--
 **AyrtonPereira1996/AyrtonPereira1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
