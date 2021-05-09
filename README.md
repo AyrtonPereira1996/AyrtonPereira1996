@@ -22,7 +22,9 @@ My name is Ayrton Pereira I was born in 1996 in Mozambique in Quelimane City. No
 
 🤔 What I do?
 
-I'am working as a web freelancer developing websites and web applications;
+I’m working as a web freelancer developing websites and web applications;
 
-I'am working as IT technician at an IT consulting company called System Soluction since 2020;
+I’m working as an IT technician at an IT consulting company called System Solution since 2020;
+
+I’m trying each day to get better at doing what I do and what I ♥️ do.
 
