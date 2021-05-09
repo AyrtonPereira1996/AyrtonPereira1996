@@ -28,3 +28,7 @@ I’m working as an IT technician at an IT consulting company called System Solu
 
 I’m trying each day to get better at doing what I do and what I ♥️ do.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
+
+
