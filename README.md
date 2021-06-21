@@ -30,15 +30,17 @@ I’m trying each day to get better at doing what I do and what I ♥️ to do.
 
 🧘‍♂️ Technologies that I am working on and trying to get better:
 
-![html5](https://user-images.githubusercontent.com/40174805/122727436-4fff3a80-d277-11eb-98b2-b53749fe7f05.png)
+![linux](https://user-images.githubusercontent.com/40174805/122732954-074a8000-d27d-11eb-9265-1e1d1837228a.png)
 
-![css3](https://user-images.githubusercontent.com/40174805/122727469-5a213900-d277-11eb-90aa-8cc398ebd65d.png)
+![html5](https://user-images.githubusercontent.com/40174805/122732509-a58a1600-d27c-11eb-832d-abc82d5f2c64.png)
 
-![javascript](https://user-images.githubusercontent.com/40174805/122727485-5d1c2980-d277-11eb-83cb-702295a2cc40.png)
+![css3](https://user-images.githubusercontent.com/40174805/122732519-a7ec7000-d27c-11eb-8b33-6f1a4cbde9e7.png)
 
-![java](https://user-images.githubusercontent.com/40174805/122727728-a2405b80-d277-11eb-84ef-0757f557b789.png)
+![javascript](https://user-images.githubusercontent.com/40174805/122732712-d8cca500-d27c-11eb-9cc3-242d5d1b5d40.png)
 
-![php](https://user-images.githubusercontent.com/40174805/122728002-f5b2a980-d277-11eb-83ba-6e6bf636a3f6.png)
+![java](https://user-images.githubusercontent.com/40174805/122732909-fd288180-d27c-11eb-9b2e-eb7615687e8e.png)
+
+![php](https://user-images.githubusercontent.com/40174805/122732934-0285cc00-d27d-11eb-8829-0fa4ec38f2f5.png)
 
 
 
