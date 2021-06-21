@@ -28,6 +28,21 @@ I’m working as an IT technician at an IT consulting company called System Solu
 
 I’m trying each day to get better at doing what I do and what I ♥️ to do.
 
+🧘‍♂️ Technologies that I am working on and trying to get better:
+
+![html5](https://user-images.githubusercontent.com/40174805/122727436-4fff3a80-d277-11eb-98b2-b53749fe7f05.png)
+
+![css3](https://user-images.githubusercontent.com/40174805/122727469-5a213900-d277-11eb-90aa-8cc398ebd65d.png)
+
+![javascript](https://user-images.githubusercontent.com/40174805/122727485-5d1c2980-d277-11eb-83cb-702295a2cc40.png)
+
+![java](https://user-images.githubusercontent.com/40174805/122727728-a2405b80-d277-11eb-84ef-0757f557b789.png)
+
+![php](https://user-images.githubusercontent.com/40174805/122728002-f5b2a980-d277-11eb-83ba-6e6bf636a3f6.png)
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
 
