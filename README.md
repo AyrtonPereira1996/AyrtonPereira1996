@@ -43,8 +43,7 @@ I’m trying each day to get better at doing what I do and what I ♥️ to do.
 🔗 Connect to me (Click to acess) :
 <p><a href="https://www.linkedin.com/in/ayrton-pereira/" target="blank"> <img src="https://user-images.githubusercontent.com/40174805/122737173-116e7d80-d281-11eb-9838-a40c657e939e.png"> </img></a>  <a href="https://web.facebook.com/ayrton96" target="blank"> <img src="https://user-images.githubusercontent.com/40174805/122737361-3fec5880-d281-11eb-9229-ed6fec56fd00.png"> </img></a>  <a href="https://www.instagram.com/ayrton_satar/?hl=pt" target="blank"> <img src="https://user-images.githubusercontent.com/40174805/122737664-935ea680-d281-11eb-8bdf-fc0292f29779.png"> </img></a></p>
    
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonPereira1996)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
