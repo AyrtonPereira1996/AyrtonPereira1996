@@ -22,7 +22,7 @@ My name is Ayrton Pereira and I was born in Mozambique more precisely in Quelima
 
 🤔 What I do?
 
-I’m working as a web freelancer developing websites and web applications;
+I’m student and trying working as a web freelancer developing websites and web applications;
 
 I’m working as an IT technician at an IT consulting company called System Solution since 2020;
 
