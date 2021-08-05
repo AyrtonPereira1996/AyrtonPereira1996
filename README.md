@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🤔 Who am I?
 
-My name is Ayrton Pereira and I was born in Mozambique more precisely in Quelimane City. Nowadays, I’m living at Quelimane (located in the centre of Mozambique) and working here as an IT technician at an IT consulting company and as also web development freelancer. Since I started to study how programming is, I never stop because I understood that with this knowledge we can help people and this 🌏🌍🌏 in different ways.<br>
+My name is Ayrton Pereira and I was born in Mozambique more precisely in Quelimane City. Nowadays, I’m living at Quelimane (located in the centre of Mozambique) and working here as an IT technician at an IT consulting company and as also web development student and freelancer. Since I started to study how programming is, I never stop because I understood that with this knowledge we can help people and this 🌏🌍🌏 in different ways.<br>
 
 🤔 What I do?
 
